@@ -1,0 +1,4 @@
+id,data,hora,cidade,latitude,longitude,tipo_incidente,status,tempo_reparo
+1,2025-05-01,10:30,São Paulo,-23.5505,-46.6333,rompimento,resolvido,120
+2,2025-05-02,15:00,Rio de Janeiro,-22.9068,-43.1729,conector,pendente,
+3,2025-05-03,09:15,Belo Horizonte,-19.9167,-43.9345,rompimento,resolvido,90
